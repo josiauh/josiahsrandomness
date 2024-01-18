@@ -1,0 +1,38 @@
+{
+  "burn": {
+    "subtitle": "sub.jrand.redted",
+    "sounds": [
+      "jrand:burn"
+    ]
+  },
+  "hate": {
+    "subtitle": "sub.jrand.redted",
+    "sounds": [
+      "jrand:hate"
+    ]
+  },
+  "illness": {
+    "subtitle": "sub.jrand.redted",
+    "sounds": [
+      "jrand:illness"
+    ]
+  },
+  "loser": {
+    "subtitle": "sub.jrand.redted",
+    "sounds": [
+      "jrand:loser"
+    ]
+  },
+  "notouch": {
+    "subtitle": "sub.jrand.redted",
+    "sounds": [
+      "jrand:notouch"
+    ]
+  },
+  "you": {
+    "subtitle": "sub.jrand.redted",
+    "sounds": [
+      "jrand:you"
+    ]
+  }
+}
